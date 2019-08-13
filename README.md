@@ -61,7 +61,7 @@ Once you have Node+npm installed:
 ```
 # first, download zum-service binary for each platform
 # from ZumCoin official repo
-# https://github.com/zumcoin-org/zumcoin/releases
+# https://github.com/zumcoin/zumcoin/releases
 # extract the zum-service executable somewhere
 
 # clone the repo
