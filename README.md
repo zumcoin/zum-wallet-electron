@@ -1,6 +1,7 @@
+<p align="center"><img src="https://raw.githubusercontent.com/zumcoin/zum-assets/master/ZumCoin/zumcoin_logo_design/3d_green_lite_bg/ZumLogo_800x200px_lite_bg.png" width="400"></p>
+
 ## ZumElectron - GUI wallet for ZumCoin.
 
-![ZumElectron Screens](https://i.imgur.com/41Ujq0S.gif "ZumElectron Screens")
 
 ### Features:
 
