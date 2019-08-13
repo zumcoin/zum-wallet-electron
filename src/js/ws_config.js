@@ -38,9 +38,7 @@ config.remoteNodeListUpdateUrl = 'https://raw.githubusercontent.com/zumcoin-org/
 
 // fallback remote node list, in case fetching update failed, fill this with known to works remote nodes
 config.remoteNodeListFallback = [
-  'sn1.zumcoin.org:17935',
-  'sn2.zumcoin.org:17935',
-  'sn3.zumcoin.org:17935',
+  'rwallet.zumcoin.org:17935',
 ];
 
 // your currency name
