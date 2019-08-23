@@ -17,7 +17,7 @@ config.walletFileDefaultExt = 'zum';
 config.walletServiceBinaryFilename = 'zum-service';
 
 // version on the bundled service (zum-service)
-config.walletServiceBinaryVersion = "v1.5.1";
+config.walletServiceBinaryVersion = "v1.6.1";
 
 // config file format supported by wallet service, possible values:
 // ini -->  for zum service (or its forks) version <= v0.8.3
@@ -39,6 +39,8 @@ config.remoteNodeListUpdateUrl = 'https://raw.githubusercontent.com/zumcoin-org/
 // fallback remote node list, in case fetching update failed, fill this with known to works remote nodes
 config.remoteNodeListFallback = [
   'sn1.zumcoin.org:17935',
+  'sn2.zumcoin.org:17935',
+  'sn3.zumcoin.org:17935',
 ];
 
 // your currency name
@@ -73,7 +75,7 @@ config.addressBookSampleEntries = [
   {
     name: 'ZumElectron Donation',
     address: 'Zum1yiwrhSZJZxepXARr3XhoaoxRmMASwcbJ2jYjdjKjPcc7Wwr9zgAX6sqoq417xUQsgf8GbSoPs9gehN9ma6JBeqvMf5XMvR5',
-    paymentId: '',
+    paymentId: 'A8C6AB07053FE8B4D663E4078773496735D2F01D58A98F64A8E070C0D9EDFE07',
   }
 ];
 // cipher config for private address book
