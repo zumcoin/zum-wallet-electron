@@ -65,7 +65,7 @@ Once you have Node+npm installed:
 # extract the zum-service executable somewhere
 
 # clone the repo
-$ git clone https://github.com/zumcoin-org/zum-wallet-electron
+$ git clone https://github.com/zumcoin/zum-wallet-electron
 $ cd zum-wallet-electron
 
 # install dependencies
