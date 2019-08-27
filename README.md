@@ -92,7 +92,6 @@ $ mkdir -p ./bin/osx
 $ cp /path/to/osx-version-of/zum-service ./bin/osx/
 $ npm run dist-mac
 ```
-
 Resulting packages or installer can be found inside `dist/` directory.
 
 ### Porting for another coin
