@@ -17,7 +17,7 @@ config.walletFileDefaultExt = 'zum';
 config.walletServiceBinaryFilename = 'zum-service';
 
 // version on the bundled service (zum-service)
-config.walletServiceBinaryVersion = "v1.6.1";
+config.walletServiceBinaryVersion = "v1.6.2";
 
 // config file format supported by wallet service, possible values:
 // ini -->  for zum service (or its forks) version <= v0.8.3
@@ -28,7 +28,7 @@ config.walletServiceConfigFormat = "json";
 config.walletServiceRpcPort = 17070;
 
 // block explorer url, the [[TX_HASH]] will be substituted w/ actual transaction hash
-config.blockExplorerUrl = 'https://explorer.zumcoin.org/transaction.html?hash=[[TX_HASH]]';
+config.blockExplorerUrl = 'https://explorer.zumcoin.org/?hash=[[TX_HASH]]#blockchain_transaction';
 
 // default remote node to connect to, set this to a known reliable node for 'just works' user experience
 config.remoteNodeDefaultHost = 'localhost';
