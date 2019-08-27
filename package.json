@@ -2,7 +2,7 @@
   "name": "zumelectron",
   "productName": "ZumElectron",
   "description": "ZumCoin GUI Wallet",
-  "version": "v1.6.1",
+  "version": "v1.6.2",
   "homepage": "https://github.com/zumcoin-org/zum-wallet-electron",
   "repository": "https://github.com/zumcoin-org/zum-wallet-electron",
   "main": "main.js",
