@@ -5,7 +5,7 @@
 
 ### Features:
 
-This wallet contains the basic functions required to mvanage your ZumCoin assets:
+This wallet contains the basic functions required to manage your ZUM coins:
 
 * Wallet creation:
   * Create new wallet.
