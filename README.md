@@ -29,7 +29,7 @@ This wallet contains the basic functions required to manage your ZUM coins:
   * Allow to optionally create password protected address book.
 * Misc:
   * Option to use system tray (on closing/minimizing wallet)
-  * Provides list of public nodes, fetch/updated daily from [zumcoin-nodes-json](https://github.com/zumcoin-org/zumcoin-nodes-json) repo.
+  * Provides list of public nodes, fetch/updated daily from [zumcoin-nodes-json](https://github.com/zumcoin/zumcoin-nodes-json) repo.
   * Allow to add custom node address.
   * Theme: Dark & Light Mode
   * [Keyboard shortcuts](docs/shortcut.md)
@@ -37,17 +37,17 @@ This wallet contains the basic functions required to manage your ZUM coins:
 ### Download &amp; Run ZumElectron
 
 #### Windows:
-1. Download the latest installer here: https://github.com/zumcoin-org/zum-wallet-electron/releases/latest
+1. Download the latest installer here: https://github.com/zumcoin/zum-wallet-electron/releases/latest
 2. Run the installer (`zumelectron-<version>-win-setup.exe`) and follow the installation wizard.
 3. Launch ZumElectron via start menu or desktop shortcut.
 
 #### GNU/Linux (AppImage):
-1. Download latest AppImage bundle here: https://github.com/zumcoin-org/zum-wallet-electron/releases/latest
+1. Download latest AppImage bundle here: https://github.com/zumcoin/zum-wallet-electron/releases/latest
 2. Make it executable, either via GUI file manager or command line, e.g. `chmod +x zumelectron-<version>-linux.AppImage`
 3. Run/execute the file, double click in file manager, or run via shell/command line (See: https://docs.appimage.org/user-guide/run-appimages.html)
 
 #### macOS
-1. Download latest archive here: https://github.com/zumcoin-org/zum-wallet-electron/releases/latest
+1. Download latest archive here: https://github.com/zumcoin/zum-wallet-electron/releases/latest
 2. Extract downloaded zip archived
 3. Run the executable binary (`ZumElectron.app/Contents/MacOs/ZumElectron`)
 

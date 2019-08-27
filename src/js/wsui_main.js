@@ -217,7 +217,7 @@ function populateElementVars() {
 let jtfr = {
     tFind: [
         "ZumElectron",
-        "https://github.com/zumcoin-org/zum-wallet-electron",
+        "https://github.com/zumcoin/zum-wallet-electron",
         "ZumCoin",
         "ZUM",
         "zum-service"

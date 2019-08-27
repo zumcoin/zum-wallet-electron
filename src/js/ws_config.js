@@ -5,7 +5,7 @@ config.appName = 'ZumElectron';
 config.appDescription = 'ZumCoin Electron Wallet';
 config.appSlogan = 'Simplified Private Digital Currency';
 config.appId = 'org.zumcoin.zumelectron';
-config.appGitRepo = 'https://github.com/zumcoin-org/zum-wallet-electron';
+config.appGitRepo = 'https://github.com/zumcoin/zum-wallet-electron';
 
 // default port number for your daemon (e.g. ZumCoind)
 config.daemonDefaultRpcPort = 17935;
@@ -17,7 +17,7 @@ config.walletFileDefaultExt = 'zum';
 config.walletServiceBinaryFilename = 'zum-service';
 
 // version on the bundled service (zum-service)
-config.walletServiceBinaryVersion = "v1.6.2";
+config.walletServiceBinaryVersion = "v1.6.1";
 
 // config file format supported by wallet service, possible values:
 // ini -->  for zum service (or its forks) version <= v0.8.3
