@@ -22,7 +22,7 @@ If you want your version of ZumElectron looks different than what provided by de
 - Replace `src/assets/image/*` with your own images.
 
 ### 4. Rebuild/package your wallet for distribution
-Please refer to the build guide on the repository [main page](https://github.com/zumcoin-org/zum-wallet-electron).
+Please refer to the build guide on the repository [main page](https://github.com/zumcoin/zum-wallet-electron).
 
 ### Final Note
-_You are free to use, modify, redistribute, or do whatever you want to the ZumElectron's code, as long as you comply with the [license](https://github.com/zumcoin-org/zum-wallet-electron/blob/master/LICENSE.md) coming with ZumElectron_.
+_You are free to use, modify, redistribute, or do whatever you want to the ZumElectron's code, as long as you comply with the [license](https://github.com/zumcoin/zum-wallet-electron/blob/master/LICENSE.md) coming with ZumElectron_.
