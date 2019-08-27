@@ -28,13 +28,13 @@ config.walletServiceConfigFormat = "json";
 config.walletServiceRpcPort = 17070;
 
 // block explorer url, the [[TX_HASH]] will be substituted w/ actual transaction hash
-config.blockExplorerUrl = 'https://explorer.zumcoin.org/?hash=[[TX_HASH]]#blockchain_transaction';
+config.blockExplorerUrl = 'http://explorer.zumcoin.org/?hash=[[TX_HASH]]#blockchain_transaction';
 
 // default remote node to connect to, set this to a known reliable node for 'just works' user experience
 config.remoteNodeDefaultHost = 'localhost';
 
 // remote node list update url, set to null if you don't have one
-config.remoteNodeListUpdateUrl = 'https://raw.githubusercontent.com/zumcoin-org/zumcoin-nodes-json/master/zumcoin-nodes.json';
+config.remoteNodeListUpdateUrl = 'https://raw.githubusercontent.com/zumcoin/zumcoin-nodes-json/master/zumcoin-nodes.json';
 
 // fallback remote node list, in case fetching update failed, fill this with known to works remote nodes
 config.remoteNodeListFallback = [
