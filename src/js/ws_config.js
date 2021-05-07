@@ -17,7 +17,7 @@ config.walletFileDefaultExt = 'zum';
 config.walletServiceBinaryFilename = 'zum-service';
 
 // version on the bundled service (zum-service)
-config.walletServiceBinaryVersion = "v1.6.1";
+config.walletServiceBinaryVersion = "v1.7.1";
 
 // config file format supported by wallet service, possible values:
 // ini -->  for zum service (or its forks) version <= v0.8.3
